@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/29e980cb-1ff5-4fb6-b9de-98952647f086/resourceGroups/AzureLearningTest/providers/Microsoft.Web/sites/dtwinexampletest1",
+    "appService.deploySubpath": "."
+}
